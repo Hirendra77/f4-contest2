@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+p{
+  font-size: 30px;
+  font-weight: bold;
+}
+.table{
+  width: 100%;
+  padding: 5px;
+}
+table tr{
+  background-color: rgb(230, 230, 230);
+}
